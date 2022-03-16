@@ -1,0 +1,5 @@
+[
+    { "title": "Auto", "price": 120000000, "thumbnail": "auto.png", "id":1 },
+    {"title": "Bici", "price": 20000, "thumbnail": "bici.png", "id":2 },
+    {"title":"Tele", "price":40000, "thumbnail":"tele.png", "id":3}    
+]
